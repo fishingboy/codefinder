@@ -1,0 +1,14 @@
+{
+    "name": "fishingboy/codefinder",
+    "description": "find your code",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "fishingboy",
+            "email": "et282523@hotmail.com"
+        }
+    ],
+    "version": "1.0.0"
+}
