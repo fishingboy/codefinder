@@ -1,6 +1,7 @@
 # codefinder
 
 [![Packagist Version](https://img.shields.io/packagist/v/fishingboy/codefinder.svg)](https://packagist.org/packages/fishingboy/codefinder)
+[![Downloads](https://img.shields.io/packagist/dt/fishingboy/codefinder.svg?label=Downloads)](https://packagist.org/packages/fishingboy/codefinder)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 [English](README.md) | 繁體中文
